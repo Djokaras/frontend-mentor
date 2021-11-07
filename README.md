@@ -5,6 +5,7 @@
 | NEWBIE     | [Order Summary Component](#order-summary-component)                 |
 | NEWBIE     | [Stats-preview-card](#Stats-preview-card)                           |
 | NEWBIE     | [3-column preview card component](#3-column-preview-card-component) |
+| NEWBIE     | [Social proof section](#Social-proof-section)                       |
 
 ## Order Summary Component
 
