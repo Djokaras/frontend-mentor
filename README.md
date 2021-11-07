@@ -29,3 +29,11 @@
 - Live Site URL: [https://djokaras.github.io/3-column-preview-card-component/](https://djokaras.github.io/3-column-preview-card-component/)
 - Repository URL: [https://github.com/Djokaras/3-column-preview-card-component](https://github.com/Djokaras/3-column-preview-card-component)
 - Solution URL: [https://www.frontendmentor.io/solutions/css-grid-without-media-queries-2M_KD2UP2/](https://www.frontendmentor.io/solutions/css-grid-without-media-queries-2M_KD2UP2/)
+
+## Social proof section
+
+![screenshots/social-proof-section.png](./screenshots/social-proof-section.png)
+
+- Live Site URL: [https://djokaras.github.io/Social-proof-section/](https://djokaras.github.io/Social-proof-section/)
+- Repository URL: [https://github.com/Djokaras/Social-proof-section](https://github.com/Djokaras/Social-proof-section)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-grid-flexbox-YUpByXzP1/](https://www.frontendmentor.io/solutions/css-grid-flexbox-YUpByXzP1/)
