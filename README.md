@@ -1,5 +1,7 @@
 # Frontend Mentor Solutions 👨🏻‍💻
 
+After completing [https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/](Build-Responsive-Real-World-Websites-with-HTML-and-CSS) by Jonas Schmedtmann I've decided to practice by going through challenges on Frontend Mentor. Will be taking each challenge from every level. HTML and CSS first to get some practice before moving on to JS.
+
 | Difficulty | Table of Contents                                                   |
 | ---------- | ------------------------------------------------------------------- |
 | NEWBIE     | [Order Summary Component](#order-summary-component)                 |
@@ -13,7 +15,7 @@
 
 - Live Site URL: [https://djokaras.github.io/order-summary-component/](https://djokaras.github.io/order-summary-component/)
 - Repository URL: [https://github.com/Djokaras/order-summary-component](https://github.com/Djokaras/order-summary-component)
-- Solution URL: [https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/flexbox-desktop-first-mCpLz7h-H/](hhttps://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/flexbox-desktop-first-mCpLz7h-H/)
+- Solution URL: [https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/flexbox-desktop-first-mCpLz7h-H/](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/flexbox-desktop-first-mCpLz7h-H/)
 
 ## Stats-preview-card
 
