@@ -8,6 +8,7 @@ After completing [https://www.udemy.com/course/design-and-develop-a-killer-websi
 | NEWBIE     | [Stats-preview-card](#Stats-preview-card)                           |
 | NEWBIE     | [3-column preview card component](#3-column-preview-card-component) |
 | NEWBIE     | [Social proof section](#Social-proof-section)                       |
+| NEWBIE     | [Profile card](#Profile-card)                                       |
 
 ## Order Summary Component
 
@@ -40,3 +41,11 @@ After completing [https://www.udemy.com/course/design-and-develop-a-killer-websi
 - Live Site URL: [https://djokaras.github.io/Social-proof-section/](https://djokaras.github.io/Social-proof-section/)
 - Repository URL: [https://github.com/Djokaras/Social-proof-section](https://github.com/Djokaras/Social-proof-section)
 - Solution URL: [https://www.frontendmentor.io/solutions/css-grid-flexbox-YUpByXzP1/](https://www.frontendmentor.io/solutions/css-grid-flexbox-YUpByXzP1/)
+
+## Profile card
+
+![screenshots/profileCard.png](./screenshots/profileCard.png)
+
+- Live Site URL: [https://djokaras.github.io/profile-card-component/](https://djokaras.github.io/profile-card-component/)
+- Repository URL: [https://github.com/Djokaras/profile-card-component](https://github.com/Djokaras/profile-card-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-Q9vD-8rPa/](https://www.frontendmentor.io/solutions/flexbox-Q9vD-8rPa/)
