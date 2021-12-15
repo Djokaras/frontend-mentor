@@ -2,14 +2,15 @@
 
 After completing [https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/](Build-Responsive-Real-World-Websites-with-HTML-and-CSS) by Jonas Schmedtmann I've decided to practice by going through challenges on Frontend Mentor. Will be taking each challenge from every level. HTML and CSS first to get some practice before moving on to JS.
 
-| Difficulty | Table of Contents                                                   |
-| ---------- | ------------------------------------------------------------------- |
-| NEWBIE     | [Order Summary Component](#order-summary-component)                 |
-| NEWBIE     | [Stats-preview-card](#Stats-preview-card)                           |
-| NEWBIE     | [3-column preview card component](#3-column-preview-card-component) |
-| NEWBIE     | [Social proof section](#Social-proof-section)                       |
-| NEWBIE     | [Profile card](#Profile-card)                                       |
-| NEWBIE     | [FAQ accordion card](#FAQ-accordion-card)                           |
+| Difficulty | Table of Contents                                                         |
+| ---------- | ------------------------------------------------------------------------- |
+| NEWBIE     | [Order Summary Component](#order-summary-component)                       |
+| NEWBIE     | [Stats-preview-card](#Stats-preview-card)                                 |
+| NEWBIE     | [3-column preview card component](#3-column-preview-card-component)       |
+| NEWBIE     | [Social proof section](#Social-proof-section)                             |
+| NEWBIE     | [Profile card](#Profile-card)                                             |
+| NEWBIE     | [FAQ accordion card](#FAQ-accordion-card)                                 |
+| NEWBIE     | [Article preview component solution](#Article-preview-component-solution) |
 
 ## Order Summary Component
 
@@ -58,3 +59,11 @@ After completing [https://www.udemy.com/course/design-and-develop-a-killer-websi
 - Live Site URL: [https://djokaras.github.io/FAQ-accordion-card/](https://djokaras.github.io/FAQ-accordion-card/)
 - Repository URL: [https://github.com/Djokaras/FAQ-accordion-card](https://github.com/Djokaras/FAQ-accordion-card)
 - Solution URL: [https://www.frontendmentor.io/solutions/flex-absolute-positioning-62Es5SBtU](https://www.frontendmentor.io/solutions/flex-absolute-positioning-62Es5SBtU)
+
+## Article preview component solution
+
+![screenshots/Article-preview.png](./screenshots/Article-preview.png)
+
+- Live Site URL: [https://djokaras.github.io/article-preview-component/](https://djokaras.github.io/article-preview-component/)
+- Repository URL: [https://github.com/Djokaras/article-preview-component](https://github.com/Djokaras/article-preview-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-mobile-grid-desktop-layout-UDRWz4gif](https://www.frontendmentor.io/solutions/flexbox-mobile-grid-desktop-layout-UDRWz4gif)
